@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>tictacto</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.27" />
+	<link href="css/tictacto.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="js/tictacto.js"></script>
+</head>
+
+<body>
+	<h1>TIC-TAC-TOE</h1>
+<div class="display" id="game">
+<div class="row1">
+<div id="one"><button></button></div>
+<div id="two"><button></button></div>
+<div id="three"><button></button></div>
+</div>
+<div class="row2">
+<div id="four"><button></button></div>
+<div id="five"><button></button></div>
+<div id="six"><button></button></div>
+</div>
+<div class="row3">
+<div id="seven"><button></button></div>
+<div id="eight"><button></button></div>
+<div id="nine"><button></button></div>
+</div>
+</div>
+
+</body>
+
+</html>
+	
+	
+
